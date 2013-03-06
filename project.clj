@@ -1,4 +1,4 @@
-(defproject com.ewen.utils-cljs "1.0.0-RELEASE"
+(defproject com.ewen.utils-cljs "1.0.0-SNAPSHOT"
   :description "Utilities for clojurescript"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
